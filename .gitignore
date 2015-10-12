@@ -63,7 +63,7 @@ build/
 .rvmrc
 
 # other files
-database.yml
+config/database.yml
 doc/
 *.swp
 *~
@@ -71,3 +71,4 @@ doc/
 .DS_Store
 .idea
 .secret
+bundler_stubs/
